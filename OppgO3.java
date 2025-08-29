@@ -21,12 +21,3 @@ input.close();
 
     }
     }
-//  int j = input.nextInt();
-//
-//            int n = 1;
-//            int x = i*n;
-//
-//            int n = n*i*x;
-//
-//            if(n >= j)
-//                System.out.println(n);
