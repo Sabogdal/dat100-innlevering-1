@@ -10,7 +10,7 @@ public class OppgO3 {
 
         int x = n;
 
-        for(int i = 1; i < n;) {
+        for(int i = 1; i < n-1;) {
             x = (x * (n - 1));
             n--;
 
@@ -21,3 +21,4 @@ input.close();
 
     }
     }
+
