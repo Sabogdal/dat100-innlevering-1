@@ -9,7 +9,7 @@ public class OppgO1 {
                 System.out.print("Skriv din inntekt: ");
                 double tall = input.nextDouble();
 
-                if (tall == 0 && tall <= 217400) {
+                if (tall >= 0 && tall <= 217400) {
                     System.out.println("Du betaler 0 kr i skatt");
                 }
                     else if(tall >= 217401 && tall <= 306050) {
